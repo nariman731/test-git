@@ -8,3 +8,5 @@ git push origin main
 
 git remote -v (return origin)
 get branch (return main)
+
+git reset --hard
