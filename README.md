@@ -13,3 +13,5 @@ get branch (return main)
 
 git brach develop
 git checkout develop
+
+git merge branch (where branch name of merged branch)
